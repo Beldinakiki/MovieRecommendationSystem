@@ -1,4 +1,4 @@
-# MovieRecommendationSystem
+# Movie Recommendation System
 
 A content-based movie recommendation system built with Python, Streamlit, and scikit-learn, using Netflix movie data.
 
